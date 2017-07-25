@@ -1,0 +1,62 @@
+div {
+   background-color: white;
+   border: solid 1px white;
+   border-radius: 10px;
+}
+table {
+   border-collapse: collapse;
+}
+.thead {
+   border: outset 1px white;
+   height: 25px;
+}
+body {
+   min-width: 500px;
+   background-color: pink;
+   margin-top: 0;
+   margin-left: 10%;
+   margin-right: 10%;  
+}
+.img {
+   float: left;
+   height: 50px;
+   border: solid 5px white;
+}
+.text {
+   padding-left: 45%;
+   height: 250px;
+}
+.list {
+   float: left;
+   background-color: silver;
+   border: solid 5px white;
+   border-radius: 15px;
+   padding: 0;
+}
+input {
+   width: 40px;
+   height: 35px;
+}
+h1 {
+   margin-bottom:0;
+   padding-left: 50px;
+}
+.foot {
+   float: none;
+   padding-left: 45%;
+}
+ul {
+   list-style-type: none;
+   padding-left: 5px;
+   padding-right: 10px;
+   margin: 5px;
+}
+.listinside {
+   padding-left: 25px;
+}
+.tech{
+   padding-left: 35%;
+} 
+p {
+   text-indent: 5%;
+}
